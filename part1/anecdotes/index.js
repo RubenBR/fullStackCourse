@@ -26,6 +26,7 @@ const App = (props) => {
     if ((copia[selected]) > copia[maxVote]){
         setMax(selected)
     }
+    
   }
 
   return (
